@@ -69,7 +69,7 @@ html {
 footer {
     font-size: 1.3rem;
 }
-
+```
 ### Useful resources
 
 - [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp) - This helped me to divide the body better.
